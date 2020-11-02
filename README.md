@@ -1,2 +1,2 @@
-# mvvm-view
-MvvmAndroidFrame库的扩展库：view相关
+# RootView
+常用的一些自定义view
